@@ -33,8 +33,9 @@ class Employe:
 
 # //////////////////////////////////////////////////
     def __repr__(self):
-        return f"({self.prenom}, {self.nom}"
+        return f"({self.prenom}, {self.nom})"
 # ///////////////////////////////////////////////////
+# f = format
 
 
 employes = [
