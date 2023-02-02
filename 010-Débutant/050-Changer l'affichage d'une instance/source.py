@@ -37,6 +37,9 @@ class Employe:
 # ///////////////////////////////////////////////////
 # f = format
 
+# def __repr__(self):
+#             return "Employe(prenom='{}', nom='{}')".format(self.prenom, self.nom)
+
 
 employes = [
     ("Pierre", "Smith", "Responsable RH", 35000),

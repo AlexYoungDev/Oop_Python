@@ -42,7 +42,7 @@ print(cube.z)
 # class Cube(Shape):
 #     def __init__(self):
 #         super().__init__()
-# Depuis Python 3, vous pouvez utiliser la fonction super en l'appelant directement
+# Depuis Python 3, vous pouvez utiliser la fonction "super" en l'appelant directement
 # sans lui passer aucun argument :
 
 # super()
